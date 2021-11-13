@@ -1,9 +1,9 @@
 song1 = "";
 song2 = "";
-left_wrist_x = "";
-left_wrist_y = "";
-right_wrist_x = "";
-right_wrist_y = "";
+left_wrist_x =  0;
+left_wrist_y =  0;
+right_wrist_x = 0;
+right_wrist_y = 0;
 
 function loadSound() {
 
